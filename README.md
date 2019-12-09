@@ -4,7 +4,7 @@ Get a list of mailbox users having a selected client access protocol enabled
 
 ## Description
 
-This script gather a list of enabled users for a selected Exchange Server client protocol. The list of users is sent by email as html text in the email body or as an attached CSV file. You can select to gather data for a single protocol or for all protocols.
+This scripts gather a list of enabled users for a selected Exchange Server client protocol. The list of users is sent by email as HTML text in the email body or as an attached CSV file. You can select to gather data for a single protocol or for all protocols.
 
 Available protocols are:
 
@@ -61,7 +61,7 @@ Find users having all protocols enabled, create a CSV file per protocol and send
 .\Get-EnabledProtocolReport.ps1 -Protocol ALL -ExportCsv
 ```
 
-Find users having all protocols enabled, create a CSV file per protocol 
+Find users having all protocols enabled, create a CSV file per protocol
 
 ## Note
 
@@ -72,7 +72,7 @@ RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
 Download and vote at TechNet Gallery
 
-- [TechNet Link] (https://gallery.technet.microsoft.com/Script-to-remove-unwanted-9d119c6b)
+- [https://gallery.technet.microsoft.com/Get-a-list-of-mailbox-29cd5ba3](https://gallery.technet.microsoft.com/Get-a-list-of-mailbox-29cd5ba3)
 
 ## Credits
 

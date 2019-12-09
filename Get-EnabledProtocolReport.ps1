@@ -16,8 +16,8 @@
 	
   .DESCRIPTION
 
-  This script gather a list of enabled users for a selected Exchange Server client protocol.
-  The list of users is sent by email as html text in the email body or as an attached CSV file.
+  This script gathers a list of enabled users for a selected Exchange Server client protocol.
+  The list of users is sent by email as HTML text in the email body or as an attached CSV file.
   You can select to gather data for a single protocol or for all protocols. 
 	
   .NOTES 
